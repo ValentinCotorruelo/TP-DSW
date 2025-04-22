@@ -3,7 +3,7 @@
 ## Grupo
 ### Integrantes
 * 52950-Muntaabski Felipe
-
+* 53471 - Cotorruelo, Valentín
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
