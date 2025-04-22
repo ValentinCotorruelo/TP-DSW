@@ -31,14 +31,14 @@ Regularidad:
 |CRUD simple|1. CRUD Tipo Vehiculo<br>2. CRUD Tipo Servicio<br>3. CRUD Cliente|
 |CRUD dependiente|1. CRUD Vehículo {depende de} CRUD Tipo Vehículo <br>2. CRUD Servicio {depende de} CRUD Tipo Servicio <br>3.CRUD cochera {depende de} Tipo Vehículo|
 |Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio,estado y tipo de vehículo => detalle CRUD Vehículo<br> 2. Listado de clientes filtrado por fecha hasta el próximo pago de tarifa fija => Muestra tipo de vehículo, patente y tarifa a abonar|
-|CUU/Epic|1. Realizar reserva temporal<br>2. Ingresar un vehículo para cochera con tarifa fija|
+|CUU/Epic|1.Registrar cliente <br>2. Ingresar un vehículo para cochera con tarifa fija|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Tipo Vehículo<br>2. CRUD Tipo Servicio<br>3. CRUD Cliente<br>4. CRUD Vehiculo<br>5. CRUD Servicio<br>6. CRUD Cochera<br>7. CRUD PENDIENTE|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Registrar cliente<br>2.Ingresar un vehículo para cochera con tarifa fija <br>3. Registrar reserva temporal|
 
 
 ### Alcance Adicional Voluntario
