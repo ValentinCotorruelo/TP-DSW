@@ -17,7 +17,6 @@ Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento
 ### Modelo
 ![imagen del modelo](0a3044bf-9999-4233-bbed-dbce12eb4a0c.jpeg)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
