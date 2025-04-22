@@ -12,7 +12,7 @@
 
 ## Tema
 ### Descripción
-Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento, con perfiles de administrador y usuario. El administrador puede crear cocheras y modificar las tarifas según el tipo de vehiculo (Auto/Moto) y el tipo de servicio (Anual/Mensual/xHora). Se registrará con la patente al vehículo y el tipo en el sistema el cual calculará las tarifas a abonar.
+Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento, con perfiles de administrador y usuario. El administrador puede crear cocheras y modificar las tarifas según el tipo de vehiculo (Auto/Moto) y el tipo de servicio (Anual/Mensual/xHora). Se registrará con la patente al vehículo y el tipo en el sistema el cual calculará las tarifas a abonar. Cualquier servicio que sea fijo, se solicitará dni, nombre, etc al cliente.
 
 ### Modelo
 ![imagen del modelo]()
@@ -28,9 +28,9 @@ Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
+|CRUD simple|1. CRUD Tipo Vehiculo<br>2. CRUD Tipo Servicio<br>3. CRUD Usuarios|
 |CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
+|Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio y tipo de vehículo => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
 
 
