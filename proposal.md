@@ -2,9 +2,9 @@
 
 ## Grupo
 ### Integrantes
-* 52950-Muntaabski Felipe
+* 52950 - Muntaabski, Felipe
 * 53471 - Cotorruelo, Valentín
-
+* 53465- Carbó, Santiago
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
 * [backend app](http://hyperlinkToGihubOrGitlab)
