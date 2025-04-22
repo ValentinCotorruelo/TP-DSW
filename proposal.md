@@ -23,15 +23,15 @@ Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
+
 
 Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Vehiculo<br>2. CRUD Tipo Servicio<br>3. CRUD Cliente|
-|CRUD dependiente|1. CRUD Vehículo {depende de} CRUD Tipo Vehículo <br>2. CRUD Servicio {depende de} CRUD Tipo Servicio 3.<br>CRUD cochera {depende de} Tipo Vehículo|
-|Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio y tipo de vehículo => detalle CRUD Vehículo<br> 2. Listado de clientes filtrado por  fecha hasta el próximo pago de tarifa fija => Muestra tipo de vehículo, patente y tarifa a abonar|
-|CUU/Epic|1. Ingresar un vehículo temporal<br>2. Ingresar un vehículo para cochera con tarifa fija|
+|CRUD dependiente|1. CRUD Vehículo {depende de} CRUD Tipo Vehículo <br>2. CRUD Servicio {depende de} CRUD Tipo Servicio <br>3.CRUD cochera {depende de} Tipo Vehículo|
+|Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio,estado y tipo de vehículo => detalle CRUD Vehículo<br> 2. Listado de clientes filtrado por fecha hasta el próximo pago de tarifa fija => Muestra tipo de vehículo, patente y tarifa a abonar|
+|CUU/Epic|1. Realizar reserva temporal<br>2. Ingresar un vehículo para cochera con tarifa fija|
 
 
 Adicionales para Aprobación
