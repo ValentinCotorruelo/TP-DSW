@@ -8,7 +8,7 @@
 ### Repositorios
 * [frontend app](https://github.com/FelipeMuntaabski/Frontend)
 * [backend app](https://github.com/FelipeMuntaabski/backtend)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+
 
 ## Tema
 ### Descripción
