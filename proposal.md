@@ -29,7 +29,7 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Vehiculo<br>2. CRUD Tipo Servicio<br>3. CRUD Cliente|
-|CRUD dependiente|1. CRUD Vehículo {depende de} CRUD Tipo Vehículo <br>2. CRUD Cliente {depende de} CRUD Tipo Servicio|
+|CRUD dependiente|1. CRUD Vehículo {depende de} CRUD Tipo Vehículo <br>2. CRUD Servicio {depende de} CRUD Tipo Servicio|
 |Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio y tipo de vehículo => detalle CRUD Vehículo<br> 2. Listado de clientes filtrado por  fecha hasta el próximo pago de tarifa fija => Muestra tipo de vehículo, patente y tarifa a abonar|
 |CUU/Epic|1. Ingresar un vehículo temporal<br>2. Ingresar un vehículo para cochera con tarifa fija|
 
