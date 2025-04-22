@@ -2,7 +2,8 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 52950-Muntaabski Felipe
+
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
