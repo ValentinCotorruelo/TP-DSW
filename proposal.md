@@ -29,7 +29,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Vehiculo<br>2. CRUD Tipo Servicio<br>3. CRUD Cliente|
 |CRUD dependiente|1. CRUD Vehículo {depende de} CRUD Tipo Vehículo <br>2. CRUD Servicio {depende de} CRUD Tipo Servicio <br>3.CRUD cochera {depende de} Tipo Vehículo|
-|Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio,estado y tipo de vehículo => detalle CRUD Vehículo<br> 2. Listado de clientes filtrado por fecha hasta el próximo pago de tarifa fija => Muestra tipo de vehículo, patente y tarifa a abonar|
+|Listado<br>+<br>detalle| 1. Listado de cocheras filtrado por tipo de servicio, estado y tipo de vehículo => detalle CRUD Vehículo<br> 2. Listado de clientes filtrado por fecha hasta el próximo pago de tarifa fija => Muestra tipo de vehículo, patente y tarifa a abonar|
 |CUU/Epic|1.Registrar cliente <br>2. Ingresar un vehículo para cochera con tarifa fija|
 
 
@@ -46,7 +46,7 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1. Reservas filtradas por cliente muestra datos del cliente y datos de su vehiculo y de cada reserva tipo de servicio |
+|CUU/Epic|1.Cancelación de reserva <br>2. Añadir cochera |
+|Otros|1. Envío de recordatorio de vencimiento de reserva|
 
