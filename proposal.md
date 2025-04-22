@@ -6,8 +6,8 @@
 * 53471 - Cotorruelo, Valentín
 * 53465- Carbó, Santiago
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/FelipeMuntaabski/Frontend)
+* [backend app](https://github.com/FelipeMuntaabski/backtend)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
