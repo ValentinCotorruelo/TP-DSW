@@ -12,7 +12,7 @@
 
 ## Tema
 ### Descripción
-Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento, con perfiles de administrador y usuario. El administrador crear cocheras y modificar las tarifas según el tipo de vehiculo (Auto/Moto) y el tipo de servicio (Anual/Mensual/xHora).
+Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento, con perfiles de administrador y usuario. El administrador puede crear cocheras y modificar las tarifas según el tipo de vehiculo (Auto/Moto) y el tipo de servicio (Anual/Mensual/xHora). Se registrará con la patente al vehículo y el tipo en el sistema el cual calculará las tarifas a abonar.
 
 ### Modelo
 ![imagen del modelo]()
