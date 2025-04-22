@@ -15,7 +15,7 @@
 Teniamos pensado hacer un sistema para gestionar cocheras en una estacionamiento, con perfiles de administrador y usuario. El administrador puede crear cocheras y modificar las tarifas según el tipo de vehiculo (Auto/Moto) y el tipo de servicio (Anual/Mensual/xHora). Se registrará con la patente al vehículo y el tipo en el sistema el cual calculará las tarifas a abonar. Cualquier servicio que sea fijo, se solicitará dni, nombre, etc al cliente.
 
 ### Modelo
-![file:///C:/Users/Felipe/Desktop/fotod%20de%20boludeces/0a3044bf-9999-4233-bbed-dbce12eb4a0c.jpeg]()
+![0a3044bf-9999-4233-bbed-dbce12eb4a0c.jpeg]()
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
