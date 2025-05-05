@@ -37,7 +37,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Tipo Vehículo<br>2. CRUD Tipo Servicio<br>3. CRUD Cliente<br>4. CRUD Vehiculo<br>5. CRUD Servicio<br>6. CRUD Cochera<br>7. CRUD PENDIENTE|
-|CUU/Epic|1. Registrar cliente<br>2.Ingresar un vehículo para cochera con tarifa fija <br>3. Registrar reserva temporal|
+|CUU/Epic|1. Registrar Reserva<br>2.Ingresar un vehículo para cochera con tarifa fija <br>3. Registrar reserva temporal|
 
 
 ### Alcance Adicional Voluntario
